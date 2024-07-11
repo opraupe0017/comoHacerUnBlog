@@ -13,7 +13,7 @@ Este es un post de ejemplo.
 
 $$AB^2 = BC^2 + CA^2.$$
 
-<img src="/blogTest/assets/tmp_pitagoras.png" alt="img: teorema pitágoras">
+<img src="/comoHacerUnBlog/assets/tmp_pitagoras.png" alt="img: teorema pitágoras">
 
 Para más información visitar este [link][Teorema de Pitágoras en Wikipedia]
 
