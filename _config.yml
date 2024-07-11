@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Aprende a crear y administrar tu propio blog con esta guía paso a paso. 
   Encuentra consejos sobre configuración, diseño, contenido y mucho más. 
   ¡Comienza a compartir tus ideas con el mundo hoy mismo!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/comoHacerUnBlog" # the subpath of your site, e.g. /blog
+url: "https://opraupe0017.github.io/comoHacerUnBlog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opraupe0017
 github_username:  opraupe0017
 
